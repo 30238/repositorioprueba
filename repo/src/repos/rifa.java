@@ -6,7 +6,7 @@ public class rifa {
 		// TODO Auto-generated method stub
  
 		System.out.print("Hola mi primer repositorio");
-		System.out.println("Estoy aprendiendo un poco mas tengo que rifar ");
+		System.out.println("dato nuevso");
 	}
 
 }
